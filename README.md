@@ -82,7 +82,8 @@ The model was trained using TensorFlow/Keras.
 ## Results
 
 The model achieved strong performance on the validation dataset:
-<img width="1076" height="529" alt="image" src="https://github.com/user-attachments/assets/7166a16a-4078-4c48-a178-5ab7296f2393" />
+<img width="1699" height="836" alt="image" src="https://github.com/user-attachments/assets/664b1f50-469d-435e-b399-570888c13641" />
+
 
 - Validation Accuracy: ~99%
 - Precision: ~99%
